@@ -1,0 +1,4 @@
+/cookbooks/
+/site-cookbooks/
+.chef/*
+.vagrant/*
