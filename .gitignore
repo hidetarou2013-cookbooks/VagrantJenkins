@@ -1,4 +1,4 @@
 /cookbooks/
-/site-cookbooks/
 .chef/*
 .vagrant/*
+Berksfile.lock
