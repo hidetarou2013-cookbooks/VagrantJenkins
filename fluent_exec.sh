@@ -11,4 +11,4 @@ touch run.lock
 
 #git fetch origin master
 #git pull origin master
-#vagrant up
+#/usr/bin/vagrant up
