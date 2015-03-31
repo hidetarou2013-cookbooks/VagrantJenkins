@@ -11,4 +11,6 @@ touch run.lock
 
 #git fetch origin master
 #git pull origin master
-#/usr/bin/vagrant up
+
+su -c 'berks vendor cookbooks' maekawa
+su -c 'vagrant up' maekawa
